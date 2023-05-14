@@ -33,14 +33,7 @@ class _MainPageState extends State<NavBar> {
           Settings()
         ],
         items: _navBarsItems(),
-        // navBarStyle: NavBarStyle.style1,
         navBarStyle: NavBarStyle.style9,
-        // navBarStyle: NavBarStyle.style7,
-        // navBarStyle: NavBarStyle.style10,
-        // navBarStyle: NavBarStyle.style12,
-        // navBarStyle: NavBarStyle.style13,
-        // navBarStyle: NavBarStyle.style3, 
-        // navBarStyle: NavBarStyle.style6,
         
       ),
     );
